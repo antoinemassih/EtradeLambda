@@ -9,8 +9,7 @@ import json
 consumer_key = "4c9f704cbb2a760658a9fa536f460a03"
 consumer_secret = "cf67e63745b2c99cf396e1d271b4e250fb833b2e832e2e59b16940cf3fbbd1c9"
 # L6EY2
-tokens = {'oauth_token': 'SYIC9n4EO4wJZLkX+yT/GsRMDUiO6g8mJJgiJPUOkZw=',
-          'oauth_token_secret': '10LJv1omtnqOI8RAnncpoF6Fw2kKvlcGg3ar2Svp5dk='}
+tokens = {'oauth_token': 'GO+MxXmHBdpopT3ISH7O4h/VvDq80EGp1Wcpm2/qtxQ=', 'oauth_token_secret': 'DQn4M/f102UhTA+3dioH6Oslmf1vE2SmjA0pVqIfjuc='}
 accounts = pyetrade.ETradeAccounts(
     consumer_key,
     consumer_secret,
